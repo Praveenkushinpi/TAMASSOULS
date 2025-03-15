@@ -1,6 +1,6 @@
 # TAMASSOULS
 GAME WHICH IS UNDERCEVELOPMENT WHICH IS GOING TO LAUNCH ON MARCH 31 ON STEAM 
-FOR MORE INFO VISIT https://github.com
+FOR MORE INFO VISIT https://praveenkushinpi.github.io/TAMAS.github.io/
 each developer has it own especiallity and we come together to make our game which is going to be free 
 ![Image](https://github.com/user-attachments/assets/20d84c5e-b4cb-4115-815c-e180758f642a)
                   with dark souls theme and vide variety of characters.
